@@ -1,5 +1,5 @@
 import telebot
-
+# УДАЛЕНИЕ СЛОВ, СОДЕРЖАЩИХ ФРАЗУ "абв"
 bot = telebot.TeleBot(
     '5485770455:AAGdERF3tdhEsZMkRjoF3H0iqaw9CBjZcCI')  # привязка к боту
 
